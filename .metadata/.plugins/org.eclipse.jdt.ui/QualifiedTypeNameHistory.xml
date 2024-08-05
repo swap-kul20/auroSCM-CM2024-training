@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.techlabs.model.Book"/>
+<fullyQualifiedTypeName name="com.techlabs.model.Number"/>
+<fullyQualifiedTypeName name="com.techlabs.model.AccountType"/>
+<fullyQualifiedTypeName name="com.techlabs.model.Box"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Parameter"/>
+<fullyQualifiedTypeName name="com.techlabs.model.Student"/>
+<fullyQualifiedTypeName name="com.techlabs.model.Rectangle"/>
+<fullyQualifiedTypeName name="com.techlabs.model.Circle"/>
+<fullyQualifiedTypeName name="com.techlabs.model.Shape"/>
+<fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="com.techlabs.exceptions.AgeNotValidException"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="com.techlabs.list.model.RollNumberComparator"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="com.techlabs.list.model.StudentComparator.NameComparator"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+<fullyQualifiedTypeName name="com.techlabs.model.SayableImpl"/>
+<fullyQualifiedTypeName name="com.techlabs.model.IGreeting"/>
+<fullyQualifiedTypeName name="java.util.function.Predicate"/>
+<fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+<fullyQualifiedTypeName name="com.techlabs.model.Reference"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="com.techlabs.srp.solution.model.Invoice"/>
+<fullyQualifiedTypeName name="com.techlabs.srp.solution.model.TaxCalculator"/>
+<fullyQualifiedTypeName name="com.techlabs.srp.solution.model.InvoicePrinter"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.AfterEach"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="com.techlabs.model.AreaCalculator"/>
+<fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
+</qualifiedTypeNameHistroy>
